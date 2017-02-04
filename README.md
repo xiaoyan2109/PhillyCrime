@@ -2,7 +2,7 @@
 
 
 <h1> Plot 1 </h1>
-<img src = 'https://github.com/xiaoyan2109/PhillyCrime/issues/1' alt = 'plot 1'/>
+<img src = 'https://cloud.githubusercontent.com/assets/25536928/22622180/d0682b94-eb01-11e6-8698-f8f5cdb03aac.jpg' alt = 'plot 1'/>
 <p> This plot shows the total amout of crimes each year in Philadelphia, indiating that the total amount of crime is decreasing in Philadelphia</p>
 
 <h1> Plot 2 </h1>
